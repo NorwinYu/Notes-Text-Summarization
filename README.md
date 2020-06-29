@@ -1,7 +1,7 @@
 # Notes-Text-Summarization
 
 Date 2020.2
-For MLP Course Project
+For MLP Course Project with [@Hzlvv](https://github.com/Hzlvv)
 
 
 ## 阅读
